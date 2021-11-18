@@ -8,7 +8,7 @@ lib: builder
 ---
 <div class="row">
   <div class="col-sm-8">
-    <h3 class="text-center text-muted">The <a href="https://github.com/formio/formio.js" target="_blank">Form Builder</a> allows you to build a <select class="form-control" id="form-select" style="display: inline-block; width: 150px;"><option value="form">Form</option><option value="wizard">Wizard</option><option value="pdf">PDF</option></select></h3>
+    <h3 class="text-center text-muted">The <a href="https://github.com/modynet15/formiojs" target="_blank">Form Builder</a> allows you to build a <select class="form-control" id="form-select" style="display: inline-block; width: 150px;"><option value="form">Form</option><option value="wizard">Wizard</option><option value="pdf">PDF</option></select></h3>
     <div id="builder"></div>
   </div>
   <div class="col-sm-4">

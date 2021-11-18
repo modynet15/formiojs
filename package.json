@@ -1,6 +1,6 @@
 {
   "name": "formiojs",
-  "version": "4.13.4",
+  "version": "1.0.0",
   "description": "JavaScript powered Forms with JSON Form Builder",
   "main": "index.js",
   "types": "index.d.ts",
@@ -35,22 +35,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formio/formio.js.git"
+    "url": "git+https://github.com/modynet15/formiojs.git"
   },
   "contributors": [
     {
       "name": "Form.io Open Source Community",
-      "url": "https://github.com/formio/formio.js/graphs/contributors"
+      "url": "https://github.com/modynet15/formiojs/graphs/contributors"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/formio/formio.js/issues"
+    "url": "https://github.com/modynet15/formiojs/issues"
   },
   "browser": {
     "vm": false
   },
-  "homepage": "https://github.com/formio/formio.js#readme",
+  "homepage": "https://github.com/modynet15/formiojs#readme",
   "dependencies": {
     "@formio/bootstrap3": "^2.11.3",
     "@formio/choices.js": "^9.0.1",

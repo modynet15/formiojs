@@ -6,12 +6,12 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formio/formio.js.git"
+    "url": "git+https://github.com/modynet15/formiojs.git"
   },
   "contributors": [
     {
       "name": "Form.io Open Source Community",
-      "url": "https://github.com/formio/formio.js/graphs/contributors"
+      "url": "https://github.com/modynet15/formiojs/graphs/contributors"
     }
   ],
   "browser": {
@@ -19,8 +19,8 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/formio/formio.js/issues"
+    "url": "https://github.com/modynet15/formiojs/issues"
   },
-  "homepage": "https://github.com/formio/formio.js#readme",
+  "homepage": "https://github.com/modynet15/formiojs#readme",
   "dependencies": {}
 }
