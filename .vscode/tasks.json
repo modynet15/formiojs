@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dopublish",
+			"problemMatcher": [],
+			"label": "npm: dopublish",
+			"detail": "npm test;gulp build;npm run tag;npm publish lib;"
+		}
+	]
+}
